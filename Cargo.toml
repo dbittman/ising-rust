@@ -1,7 +1,7 @@
 [package]
 
 name = "ising"
-version = "0.0.1"
+version = "0.1.0"
 authors = ["Daniel Bittman <danielbittman1@gmail.com>"]
 
 [dependencies.piston]

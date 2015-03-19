@@ -1,6 +1,6 @@
 [root]
 name = "ising"
-version = "0.0.1"
+version = "0.1.0"
 dependencies = [
  "piston 0.0.7 (git+https://github.com/PistonDevelopers/piston.git)",
  "piston2d-graphics 0.0.24 (git+https://github.com/PistonDevelopers/graphics.git)",
