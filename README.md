@@ -5,7 +5,5 @@ using the Metropolis algorithm.
 
 Todo
 ----
-  * Resize lattice
-  * Change temperature during run time
   * Calculate and display energy
 
